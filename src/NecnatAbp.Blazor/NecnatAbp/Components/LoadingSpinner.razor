@@ -1,0 +1,16 @@
+﻿<div class="@(Class == null ? "spinner-page" : "" + Class)">
+    <div class="spinner-container">
+        <div class="spinner">
+            <div class="double-bounce1"></div>
+            <div class="double-bounce2"></div>
+        </div>
+    </div>
+</div>
+
+@namespace NecnatAbp.Components
+@code {
+
+    [Parameter]
+    public string? Class { get; set; }
+
+}

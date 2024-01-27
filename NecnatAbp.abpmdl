@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "NecnatAbp.Domain.Shared": {
+      "path": "src/NecnatAbp.Domain.Shared/NecnatAbp.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Domain": {
+      "path": "src/NecnatAbp.Domain/NecnatAbp.Domain.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Application.Contracts": {
+      "path": "src/NecnatAbp.Application.Contracts/NecnatAbp.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Application": {
+      "path": "src/NecnatAbp.Application/NecnatAbp.Application.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.EntityFrameworkCore": {
+      "path": "src/NecnatAbp.EntityFrameworkCore/NecnatAbp.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.MongoDB": {
+      "path": "src/NecnatAbp.MongoDB/NecnatAbp.MongoDB.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.HttpApi": {
+      "path": "src/NecnatAbp.HttpApi/NecnatAbp.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.HttpApi.Client": {
+      "path": "src/NecnatAbp.HttpApi.Client/NecnatAbp.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.TestBase": {
+      "path": "test/NecnatAbp.TestBase/NecnatAbp.TestBase.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.EntityFrameworkCore.Tests": {
+      "path": "test/NecnatAbp.EntityFrameworkCore.Tests/NecnatAbp.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.MongoDB.Tests": {
+      "path": "test/NecnatAbp.MongoDB.Tests/NecnatAbp.MongoDB.Tests.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.Domain.Tests": {
+      "path": "test/NecnatAbp.Domain.Tests/NecnatAbp.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.Application.Tests": {
+      "path": "test/NecnatAbp.Application.Tests/NecnatAbp.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.HttpApi.Host": {
+      "path": "host/NecnatAbp.HttpApi.Host/NecnatAbp.HttpApi.Host.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Web": {
+      "path": "src/NecnatAbp.Web/NecnatAbp.Web.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/NecnatAbp.HttpApi.Client.ConsoleTestApp/NecnatAbp.HttpApi.Client.ConsoleTestApp.abppkg",
+      "folder": "test"
+    },
+    "NecnatAbp.Web.Host": {
+      "path": "host/NecnatAbp.Web.Host/NecnatAbp.Web.Host.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.AuthServer": {
+      "path": "host/NecnatAbp.AuthServer/NecnatAbp.AuthServer.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Host.Shared": {
+      "path": "host/NecnatAbp.Host.Shared/NecnatAbp.Host.Shared.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Web.Unified": {
+      "path": "host/NecnatAbp.Web.Unified/NecnatAbp.Web.Unified.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Blazor": {
+      "path": "src/NecnatAbp.Blazor/NecnatAbp.Blazor.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Blazor.Host": {
+      "path": "host/NecnatAbp.Blazor.Host/NecnatAbp.Blazor.Host.abppkg",
+      "folder": "host"
+    },
+    "NecnatAbp.Blazor.Server": {
+      "path": "src/NecnatAbp.Blazor.Server/NecnatAbp.Blazor.Server.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Blazor.WebAssembly": {
+      "path": "src/NecnatAbp.Blazor.WebAssembly/NecnatAbp.Blazor.WebAssembly.abppkg",
+      "folder": "src"
+    },
+    "NecnatAbp.Blazor.Server.Host": {
+      "path": "host/NecnatAbp.Blazor.Server.Host/NecnatAbp.Blazor.Server.Host.abppkg",
+      "folder": "host"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "NecnatAbp": {
+      "path": "NecnatAbp.abpmdl"
+    }
+  }
+}

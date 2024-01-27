@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.prod.json",
+  "compilerOptions": {
+    "paths": {
+      "@necnat-abp": [
+        "projects/necnat-abp/src/public-api.ts"
+      ],
+      "@necnat-abp/config": [
+        "projects/necnat-abp/config/src/public-api.ts"
+      ],
+      "@proxy": ["projects/necnat-abp/src/lib/proxy/index.ts"],
+      "@proxy/*": ["projects/necnat-abp/src/lib/proxy/*"]
+    }
+  }
+}
