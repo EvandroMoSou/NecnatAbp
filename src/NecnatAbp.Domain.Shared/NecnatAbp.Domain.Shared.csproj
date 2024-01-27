@@ -7,6 +7,8 @@
     <Nullable>enable</Nullable>
     <RootNamespace>NecnatAbp</RootNamespace>
     <GenerateEmbeddedFilesManifest>true</GenerateEmbeddedFilesManifest>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>8.0.2-rc001</Version>
   </PropertyGroup>
 
   <ItemGroup>
