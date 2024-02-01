@@ -7,7 +7,7 @@
     <Nullable>enable</Nullable>
     <RootNamespace></RootNamespace>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>8.0.2-rc001</Version>
+    <Version>8.0.2-rc002</Version>
   </PropertyGroup>
 
   <ItemGroup>
